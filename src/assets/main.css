@@ -1,0 +1,8 @@
+@import './base.css';
+@import "tailwindcss";
+/* @tailwind preflight;
+@tailwind utilities; */
+
+.material-icons{
+    font-size: 30px !important;
+}
